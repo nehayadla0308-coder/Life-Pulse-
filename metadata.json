@@ -1,0 +1,7 @@
+{
+  "name": "Life Pulse: Smart Blood Donation Finder",
+  "description": "A real-time, location-based blood donation platform designed to bridge the gap between donors and patients with automated emergency alerts and health eligibility checks.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
